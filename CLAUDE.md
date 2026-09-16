@@ -10,9 +10,8 @@ Editor de PDF 100% client-side (sin servidor). Inspirado en https://www.itnove.c
 ## Estructura
 ```
 editor PDF/
+├── index.html         ← versión lista para usar / GitHub Pages
 ├── src/               ← fuente de desarrollo
-│   └── index.html
-├── dist/              ← versión lista para usar/desplegar
 │   └── index.html
 ├── assets/
 │   ├── icons/         ← iconos propios si los hubiera
@@ -21,7 +20,7 @@ editor PDF/
 ```
 
 ## Uso rápido
-Abrir `dist/index.html` directamente con el navegador (doble clic). No necesita servidor.
+Abrir `index.html` directamente con el navegador (doble clic). No necesita servidor.
 
 ## Features implementadas
 - Añadir / editar texto (fuente, tamaño, color, negrita, cursiva)
