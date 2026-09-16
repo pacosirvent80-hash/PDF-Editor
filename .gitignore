@@ -1,0 +1,12 @@
+# Claude Code internal
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backups
+*.bak
+*.tmp
+*~
